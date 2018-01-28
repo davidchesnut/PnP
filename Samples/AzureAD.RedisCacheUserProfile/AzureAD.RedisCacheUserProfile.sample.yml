@@ -1,0 +1,21 @@
+### YamlMime:Sample
+sample:
+- name: Use Azure RedisCache to Cache Office 365 User Profile Information in an Office 365 Add-in
+  path: Samples/AzureAD.RedisCacheUserProfile
+  description: This sample shows how to use windows Azure Active directory to get user profile information and how to use Azure REDIS Cache to make performant Add-Ins
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - pnp
+  - SharePoint Add-in
+  azureDeploy: ''
+  author: vesajuvonen
+  platforms: []
+  languages:
+  - C#
+  extensions:
+    products:
+    - SharePoint
+    scenarios:
+    - PnP

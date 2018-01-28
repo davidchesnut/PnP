@@ -1,0 +1,20 @@
+### YamlMime:Sample
+sample:
+- name: Using the Azure AD Graph API to check group membership
+  path: Samples/AzureAD.GroupMembership
+  description: This sample shows how you can use the Azure AD Graph API to check if a given user is member of a group.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - pnp
+  azureDeploy: ''
+  author: vesajuvonen
+  platforms: []
+  languages:
+  - C#
+  extensions:
+    products:
+    - SharePoint
+    scenarios:
+    - PnP

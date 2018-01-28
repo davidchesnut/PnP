@@ -17,3 +17,5 @@ sample:
   extensions:
     products:
     - SharePoint
+    scenarios:
+    - PnP

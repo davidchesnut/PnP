@@ -1,0 +1,19 @@
+### YamlMime:Sample
+sample:
+- name: AzureAD-WebAPI-SPOnline
+  path: Samples/AzureAD.WebAPI.SPOnline
+  description: In this sample, a Windows console Application calls a Web API secured by Azure AD and the API calls SharePoint Online on behalf the logged in user.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies: []
+  azureDeploy: ''
+  author: vesajuvonen
+  platforms: []
+  languages:
+  - C#
+  extensions:
+    products:
+    - SharePoint
+    scenarios:
+    - PnP
